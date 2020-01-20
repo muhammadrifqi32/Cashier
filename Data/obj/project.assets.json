@@ -5142,11 +5142,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Metrodata\\Cashier\\Data\\Data.csproj",
+      "projectUniqueName": "D:\\Metrodata\\New Cashier\\Cashier\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "D:\\Metrodata\\Cashier\\Data\\Data.csproj",
+      "projectPath": "D:\\Metrodata\\New Cashier\\Cashier\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\Rifqi\\.nuget\\packages\\",
-      "outputPath": "D:\\Metrodata\\Cashier\\Data\\obj\\",
+      "outputPath": "D:\\Metrodata\\New Cashier\\Cashier\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

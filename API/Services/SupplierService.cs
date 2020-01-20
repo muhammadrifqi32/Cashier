@@ -52,7 +52,7 @@ namespace API.Services
             //throw new NotImplementedException();
         }
 
-        public IEnumerable<Supplier> Get(int Id)
+        public Supplier Get(int Id)
         {
             return _supplierRepository.Get(Id);
             //throw new NotImplementedException();

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Metrodata\\Cashier\\Cashier\\Client.csproj": {}
+    "D:\\Metrodata\\New Cashier\\Cashier\\Cashier\\Client.csproj": {}
   },
   "projects": {
-    "D:\\Metrodata\\Cashier\\Cashier\\Client.csproj": {
+    "D:\\Metrodata\\New Cashier\\Cashier\\Cashier\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Metrodata\\Cashier\\Cashier\\Client.csproj",
+        "projectUniqueName": "D:\\Metrodata\\New Cashier\\Cashier\\Cashier\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "D:\\Metrodata\\Cashier\\Cashier\\Client.csproj",
+        "projectPath": "D:\\Metrodata\\New Cashier\\Cashier\\Cashier\\Client.csproj",
         "packagesPath": "C:\\Users\\Rifqi\\.nuget\\packages\\",
-        "outputPath": "D:\\Metrodata\\Cashier\\Cashier\\obj\\",
+        "outputPath": "D:\\Metrodata\\New Cashier\\Cashier\\Cashier\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Metrodata\\Cashier\\Data\\Data.csproj": {
-                "projectPath": "D:\\Metrodata\\Cashier\\Data\\Data.csproj"
+              "D:\\Metrodata\\New Cashier\\Cashier\\Data\\Data.csproj": {
+                "projectPath": "D:\\Metrodata\\New Cashier\\Cashier\\Data\\Data.csproj"
               }
             }
           }
@@ -101,14 +101,14 @@
         }
       }
     },
-    "D:\\Metrodata\\Cashier\\Data\\Data.csproj": {
+    "D:\\Metrodata\\New Cashier\\Cashier\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Metrodata\\Cashier\\Data\\Data.csproj",
+        "projectUniqueName": "D:\\Metrodata\\New Cashier\\Cashier\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "D:\\Metrodata\\Cashier\\Data\\Data.csproj",
+        "projectPath": "D:\\Metrodata\\New Cashier\\Cashier\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\Rifqi\\.nuget\\packages\\",
-        "outputPath": "D:\\Metrodata\\Cashier\\Data\\obj\\",
+        "outputPath": "D:\\Metrodata\\New Cashier\\Cashier\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

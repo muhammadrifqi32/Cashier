@@ -36,7 +36,7 @@ namespace API.Controllers
             {
                 return Ok(get);
             }
-            return BadRequest("Added Row Failed!");
+            return BadRequest("Row Not Found!");
         }
 
         // POST: api/Departments

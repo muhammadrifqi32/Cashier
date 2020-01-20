@@ -10,8 +10,8 @@ namespace API.Services.Interface
     public interface ISupplierService
     {
         IEnumerable<Supplier> Get();
-        //Supplier Get(int Id);
-        IEnumerable<Supplier> Get(int Id);
+        Supplier Get(int Id);
+        //IEnumerable<Supplier> Get(int Id);
         int Create(SupplierVM supplierVM);
         int Update(int Id, SupplierVM supplierVM);
         int Delete(int Id);

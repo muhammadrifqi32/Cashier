@@ -46,10 +46,15 @@ namespace Data.Repository
             //throw new NotImplementedException();
         }
 
-        public IEnumerable<Supplier> Get(int Id)
+        //public IEnumerable<Supplier> Get(int Id)
+        //{
+        //    return myContext.Suppliers.FromSqlRaw($"SP_GetSupplierByID @p0", Id);
+        //    //throw new NotImplementedException();
+        //}
+
+        public Supplier Get(int id)
         {
-            return myContext.Suppliers.FromSqlRaw($"SP_GetSupplierByID @p0", Id);
-            //throw new NotImplementedException();
+            return myContext.Suppliers.Find(id);
         }
 
         public int Update(int Id, SupplierVM supplierVM)

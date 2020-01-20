@@ -8416,11 +8416,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Metrodata\\Cashier\\API\\API.csproj",
+      "projectUniqueName": "D:\\Metrodata\\New Cashier\\Cashier\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\Metrodata\\Cashier\\API\\API.csproj",
+      "projectPath": "D:\\Metrodata\\New Cashier\\Cashier\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Rifqi\\.nuget\\packages\\",
-      "outputPath": "D:\\Metrodata\\Cashier\\API\\obj\\",
+      "outputPath": "D:\\Metrodata\\New Cashier\\Cashier\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -8440,8 +8440,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Metrodata\\Cashier\\Data\\Data.csproj": {
-              "projectPath": "D:\\Metrodata\\Cashier\\Data\\Data.csproj"
+            "D:\\Metrodata\\New Cashier\\Cashier\\Data\\Data.csproj": {
+              "projectPath": "D:\\Metrodata\\New Cashier\\Cashier\\Data\\Data.csproj"
             }
           }
         }

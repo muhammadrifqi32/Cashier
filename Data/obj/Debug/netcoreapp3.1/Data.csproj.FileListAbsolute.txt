@@ -22,3 +22,14 @@ D:\Metrodata\Cashier\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
 D:\Metrodata\Cashier\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
 D:\Metrodata\Cashier\Data\obj\Debug\netcoreapp3.1\Data.dll
 D:\Metrodata\Cashier\Data\obj\Debug\netcoreapp3.1\Data.pdb
+D:\Metrodata\New Cashier\Cashier\Data\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Metrodata\New Cashier\Cashier\Data\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Metrodata\New Cashier\Cashier\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+D:\Metrodata\New Cashier\Cashier\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+D:\Metrodata\New Cashier\Cashier\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+D:\Metrodata\New Cashier\Cashier\Data\bin\Debug\netcoreapp3.1\Data.dll
+D:\Metrodata\New Cashier\Cashier\Data\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Metrodata\New Cashier\Cashier\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+D:\Metrodata\New Cashier\Cashier\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+D:\Metrodata\New Cashier\Cashier\Data\obj\Debug\netcoreapp3.1\Data.dll
+D:\Metrodata\New Cashier\Cashier\Data\obj\Debug\netcoreapp3.1\Data.pdb
