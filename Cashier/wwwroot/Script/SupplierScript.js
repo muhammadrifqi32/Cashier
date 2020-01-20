@@ -23,7 +23,7 @@ function loadSupplier() {
         dataType: "json",
         async: false,
         success: function (result) {
-            debugger;
+            //debugger;
             var html = '';
             $.each(result, function (key, Supplier) {
                 joinDate = moment(Supplier.joinDate).format('DD MMMM YYYY');
@@ -69,19 +69,18 @@ function Save() {
         }
     });
 }
-function GetbyId(id) {
+function GetbyId(Id) {
     debugger;
     $.ajax({
         url: "/Suppliers/GetbyId",
         type: "GET",
-        contentType: "application/json;charset=UTF-8",
-        dataType: "json",
-        data: { id: id },
+        data: { id: Id },
         success: function (result) {
             debugger;
-            $('#Id').val(result.id);
+            var joindate = moment(result.joinDate).format('DD MMMM YYYY');
+            $('#Id').val(result.Id);
             $('#suppliername').val(result.name);
-            $('#joindate').val(result.joinDate);
+            $('#joindate').val(joindate);
             $('#myModal').modal('show');
             $('#Update').show();
             $('#Save').hide();

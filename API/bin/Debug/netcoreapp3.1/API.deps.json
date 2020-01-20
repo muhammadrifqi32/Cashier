@@ -26,6 +26,7 @@
         "dependencies": {
           "Data": "1.0.0",
           "Microsoft.AspNet.WebApi.Client": "5.2.7",
+          "Microsoft.EntityFrameworkCore.Relational": "3.1.0",
           "Microsoft.Extensions.Logging.Debug": "3.1.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "3.1.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
@@ -2066,6 +2067,7 @@
       "Data/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "3.1.0",
+          "Microsoft.EntityFrameworkCore.Relational": "3.1.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.0",
           "Microsoft.Extensions.Configuration.FileExtensions": "3.1.0",
           "Microsoft.Extensions.Configuration.Json": "3.1.0"

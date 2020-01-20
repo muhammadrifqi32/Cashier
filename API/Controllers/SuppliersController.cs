@@ -28,7 +28,7 @@ namespace API.Controllers
         }
 
         // GET: api/Departments/5
-        [HttpGet("{id}", Name = "GetSuppliers")]
+        [HttpGet("{Id}")]
         public IActionResult Get(int id)
         {
             var get = _supplierService.Get(id);

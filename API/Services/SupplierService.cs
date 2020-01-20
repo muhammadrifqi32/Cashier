@@ -58,6 +58,12 @@ namespace API.Services
             //throw new NotImplementedException();
         }
 
+        //public IEnumerable<Supplier> Get(int Id)
+        //{
+        //    return _supplierRepository.Get(Id);
+        //    //throw new NotImplementedException();
+        //}
+
         public int Update(int Id, SupplierVM supplierVM)
         {
             if (string.IsNullOrWhiteSpace(supplierVM.Name))

@@ -64,6 +64,7 @@ namespace Client.Controllers
                 return Json(result);
             }
         }
+
         public JsonResult GetById(int id)
         {
             Supplier supplier = null;
@@ -86,6 +87,26 @@ namespace Client.Controllers
             }
             return Json(supplier);
         }
+
+        //public async Task<JsonResult> GetById(int id)
+        //{
+        //    var client = new HttpClient
+        //    {
+        //        BaseAddress = new Uri(getPort.client)
+        //    };
+        //    HttpResponseMessage response = await client.GetAsync("Suppliers/" + id);
+        //    if (response.IsSuccessStatusCode)
+        //    {
+        //        var data = await response.Content.ReadAsAsync<IList<Supplier>>();
+        //        var item = data.FirstOrDefault(s => s.Id == id);
+        //        var json = JsonConvert.SerializeObject(item, Formatting.None, new JsonSerializerSettings()
+        //        {
+        //            ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore
+        //        });
+        //        return Json(json);
+        //    }
+        //    return Json("internal server error");
+        //}
 
         public JsonResult Delete(int id)
         {
